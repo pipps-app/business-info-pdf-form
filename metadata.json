@@ -1,0 +1,5 @@
+{
+  "name": "PIPPS Smart Apps - Business Information Form",
+  "description": "A dynamic and printable business information form built with React and Tailwind CSS, designed to help PIPPS Smart Apps onboard new clients by collecting essential business, branding, and marketing details.",
+  "requestFramePermissions": []
+}
